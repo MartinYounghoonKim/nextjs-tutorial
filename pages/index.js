@@ -4,9 +4,9 @@ const Index = () => (
   <div>
     <h1>Hello, World</h1>
     <ul>
-      <PostLink id="nextjs-1" title="Hello NextJS 111"/>
-      <PostLink id="nextjs-2" title="Hello NextJS 222"/>
-      <PostLink id="nextjs-3" title="Hello NextJS 333"/>
+      <PostLink id="nextjs-1" title="Hello NextJS 111 테스트"/>
+      <PostLink id="nextjs-2" title="Hello NextJS 222 테스트"/>
+      <PostLink id="nextjs-3" title="Hello NextJS 333 테스트"/>
     </ul>
   </div>
 );
